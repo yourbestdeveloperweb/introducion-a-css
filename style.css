@@ -1,0 +1,19 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+    margin: 10px;
+    text-align: left;
+    background-color: rgb(214, 182, 243);
+}
+
+h1 {
+    color: #3e21e4;
+}
+h2 {
+    color: #345880;
+}
+code {
+    background-color:  rgb(214, 182, 243);
+    padding: 2px 4px;
+    border-radius: 4px;
+}
